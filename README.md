@@ -1,2 +1,1 @@
-# prcoin-wallet
 prcoin-wallet
